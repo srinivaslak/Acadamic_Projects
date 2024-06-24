@@ -1,13 +1,13 @@
 # Acadamic_Projects
 All avilable Btech CSE,IT,AI-ML,DataScience,DL Related Projects
-LVS-Tech 
-## Contact Details:
+
+## Contact Details: LVS-Tech 
 ### Email : lvs.tech11@gmail.com
 ### Mobile NO.: 8500221170
 
-### Avilabale Projects
+### Avilabale Projects :
 
-### Prime Projects
+### Prime Projects 
 - 01 -  A BLOCKCHAIN BASED ENCRYPTED IMAGE RETRIEVAL SCHEME
 - 02 -  A LOAD BALANCING ALGORITHM FOR THE DATA CENTRES TO OPTIMIZE CLOUD COMPUTING APPLICATIONS
 - 03 -  REVBLOC - A BLOCKCHAIN BASED SECURE CUSTOMER REVIEW SYSTEM
