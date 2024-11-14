@@ -2,7 +2,7 @@
 All avilable Btech CSE,IT,AI-ML,DataScience,DL Related Projects
 
 ## Contact Details: LVS-Tech 
-### Email : lvs.tech11@gmail.com
+### Email : lvsr.tech11@gmail.com
 ### Mobile NO.: 8500221170
 
 ### Avilabale Projects :
